@@ -1,0 +1,4 @@
+yelp-loader/venv/
+yelp-loader/__pychache__/
+yelp-loader/*.pyc
+yelp-loader/data/
